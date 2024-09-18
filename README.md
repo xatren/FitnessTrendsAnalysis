@@ -5,10 +5,7 @@ This project analyzes global and national fitness trends using Google Trends dat
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Description](#data-description)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
